@@ -2,6 +2,8 @@
 
 A beautiful, modern landing page for the UniMeal Cafe Android app.
 
+**Repository:** https://github.com/asm2212/unimeal-landing
+
 ## Features
 
 - 🎨 Modern, responsive design
@@ -9,6 +11,13 @@ A beautiful, modern landing page for the UniMeal Cafe Android app.
 - ⚡ Fast loading
 - 🔗 Direct APK download link
 - 📊 App information and features
+- 🚀 Auto-deploy on git push
+
+## Quick Deploy
+
+**Deploy from Vercel Dashboard:** https://vercel.com/new
+
+See [VERCEL_DASHBOARD_DEPLOY.md](VERCEL_DASHBOARD_DEPLOY.md) for step-by-step instructions.
 
 ## Deployment
 
