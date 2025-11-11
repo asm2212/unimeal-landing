@@ -1,13 +1,3 @@
 {
-  "version": 2,
-  "routes": [
-    {
-      "src": "/unimeal-cafe-v2.5.0.apk",
-      "dest": "/public/unimeal-cafe-v2.5.0.apk"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "version": 2
 }
