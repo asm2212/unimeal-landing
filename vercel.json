@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
   "routes": [
+    {
+      "src": "/unimeal-cafe-v2.5.0.apk",
+      "dest": "/public/unimeal-cafe-v2.5.0.apk"
+    },
     {
       "src": "/(.*)",
       "dest": "/index.html"
